@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-## I'm Tarek Hassan Ahmed 👨‍💻
-
-
-<a href="https://www.linkedin.com/in/tarekhassanahmed/">
+## I'm Tarek Hassan Ahmed 👨‍💻<a href="https://www.linkedin.com/in/tarekhassanahmed/">
   <img align="left" alt="Tarek Hassan Ahmed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
+
+
 
 - 🔭 I’m currently working on Web development with( Laravel ,php ,livewire ,JavaScript ,JQuery ,Basics of Ruby ,Basics of React)
 - 🌱 I’m currently learning .NET CORE C#, Dockers, algorithmes  
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-Hassan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tarek-Hassan&show_icons=true&theme=gotham" alt="Tarek Hassan Ahmed" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tarek-Hassan&show_icons=true&theme=gotham" alt="Tarek Hassan Ahmed" /> -->
 
