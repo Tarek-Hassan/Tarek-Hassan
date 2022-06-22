@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-## I'm Tarek Hassan Ahmed 👨‍💻<a href="https://www.linkedin.com/in/tarekhassanahmed/">
-  <img align="left" alt="Tarek Hassan Ahmed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+## I'm Tarek Hassan Ahmed 👨‍
 
 
 
@@ -25,7 +24,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning .NET CORE C#, Dockers, algorithmes  
 - 👯 I’m looking to collaborate on web projects
 - 💬 Ask me about web development 
-- 📫 How to reach me: tarek446240@gmail.com
+- 📫 How to reach me: tarek446240@gmail.com / 💻<a href="https://www.linkedin.com/in/tarekhassanahmed/">
+  <img align="left" alt="Tarek Hassan Ahmed's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarek-Hassan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
