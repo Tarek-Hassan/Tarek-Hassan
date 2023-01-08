@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on Web development with(Laravel ,php ,livewire ,JavaScript ,JQuery ,Basics of Ruby ,Basics of React)
-- 🌱 I’m currently learning .NET CORE C#, Dockers  
+- 🔭 I’m currently working on Web development with(php ,Laravel ,livewire ,JavaScript ,JQuery , Angular2+)
 - 👯 I’m looking to collaborate on web projects
 - 💬 Ask me about web development 
 - 📫 How to reach me: tarek446240@gmail.com / [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarekhassanahmed/)](https://www.linkedin.com/in/tarekhassanahmed/)
-<!-- [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/7169659/tarek-hassan?tab=profile)](https://stackoverflow.com/users/7169659/tarek-hassan?tab=profile) -->
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/7169659/tarek-hassan?tab=profile)](https://stackoverflow.com/users/7169659/tarek-hassan?tab=profile)
   
 
 
