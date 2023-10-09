@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on Web development with(php ,Laravel ,livewire ,JavaScript ,JQuery , Angular2+)
+- 🔭 I’m currently working on Web development with(PHP ,Laravel ,livewire ,JavaScript ,JQuery , VueJS,)
 - 👯 I’m looking to collaborate on web projects
 - 💬 Ask me about web development 
 - 📫 How to reach me: tarek446240@gmail.com / [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarekhassanahmed/)](https://www.linkedin.com/in/tarekhassanahmed/)
